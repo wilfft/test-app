@@ -17,14 +17,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B649B9432DA3FC80007B9A07 /* VideoPlayer-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "VideoPlayer-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B649B9532DA3FC82007B9A07 /* VideoPlayer-TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "VideoPlayer-TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B649B9432DA3FC80007B9A07 /* VideoPlayerHomework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoPlayerHomework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B649B9532DA3FC82007B9A07 /* VideoPlayerHomeworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoPlayerHomeworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B649B9452DA3FC80007B9A07 /* VideoPlayer-Test */ = {
+		B649B9452DA3FC80007B9A07 /* VideoPlayerHomework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "VideoPlayer-Test";
+			path = VideoPlayerHomework;
 			sourceTree = "<group>";
 		};
 		B649B9562DA3FC82007B9A07 /* VideoPlayer-TestTests */ = {
@@ -55,7 +55,7 @@
 		B649B93A2DA3FC80007B9A07 = {
 			isa = PBXGroup;
 			children = (
-				B649B9452DA3FC80007B9A07 /* VideoPlayer-Test */,
+				B649B9452DA3FC80007B9A07 /* VideoPlayerHomework */,
 				B649B9562DA3FC82007B9A07 /* VideoPlayer-TestTests */,
 				B649B9442DA3FC80007B9A07 /* Products */,
 			);
@@ -64,8 +64,8 @@
 		B649B9442DA3FC80007B9A07 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B649B9432DA3FC80007B9A07 /* VideoPlayer-Test.app */,
-				B649B9532DA3FC82007B9A07 /* VideoPlayer-TestTests.xctest */,
+				B649B9432DA3FC80007B9A07 /* VideoPlayerHomework.app */,
+				B649B9532DA3FC82007B9A07 /* VideoPlayerHomeworkTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B649B9422DA3FC80007B9A07 /* VideoPlayer-Test */ = {
+		B649B9422DA3FC80007B9A07 /* VideoPlayerHomework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B649B9672DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayer-Test" */;
+			buildConfigurationList = B649B9672DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayerHomework" */;
 			buildPhases = (
 				B649B93F2DA3FC80007B9A07 /* Sources */,
 				B649B9402DA3FC80007B9A07 /* Frameworks */,
@@ -86,18 +86,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B649B9452DA3FC80007B9A07 /* VideoPlayer-Test */,
+				B649B9452DA3FC80007B9A07 /* VideoPlayerHomework */,
 			);
-			name = "VideoPlayer-Test";
+			name = VideoPlayerHomework;
 			packageProductDependencies = (
 			);
 			productName = "VideoPlayer-Test";
-			productReference = B649B9432DA3FC80007B9A07 /* VideoPlayer-Test.app */;
+			productReference = B649B9432DA3FC80007B9A07 /* VideoPlayerHomework.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B649B9522DA3FC82007B9A07 /* VideoPlayer-TestTests */ = {
+		B649B9522DA3FC82007B9A07 /* VideoPlayerHomeworkTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B649B96A2DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayer-TestTests" */;
+			buildConfigurationList = B649B96A2DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayerHomeworkTests" */;
 			buildPhases = (
 				B649B94F2DA3FC82007B9A07 /* Sources */,
 				B649B9502DA3FC82007B9A07 /* Frameworks */,
@@ -111,11 +111,11 @@
 			fileSystemSynchronizedGroups = (
 				B649B9562DA3FC82007B9A07 /* VideoPlayer-TestTests */,
 			);
-			name = "VideoPlayer-TestTests";
+			name = VideoPlayerHomeworkTests;
 			packageProductDependencies = (
 			);
 			productName = "VideoPlayer-TestTests";
-			productReference = B649B9532DA3FC82007B9A07 /* VideoPlayer-TestTests.xctest */;
+			productReference = B649B9532DA3FC82007B9A07 /* VideoPlayerHomeworkTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B649B93E2DA3FC80007B9A07 /* Build configuration list for PBXProject "VideoPlayer-Test" */;
+			buildConfigurationList = B649B93E2DA3FC80007B9A07 /* Build configuration list for PBXProject "VideoPlayerHomework" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -151,8 +151,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B649B9422DA3FC80007B9A07 /* VideoPlayer-Test */,
-				B649B9522DA3FC82007B9A07 /* VideoPlayer-TestTests */,
+				B649B9422DA3FC80007B9A07 /* VideoPlayerHomework */,
+				B649B9522DA3FC82007B9A07 /* VideoPlayerHomeworkTests */,
 			);
 		};
 /* End PBXProject section */
@@ -194,7 +194,7 @@
 /* Begin PBXTargetDependency section */
 		B649B9552DA3FC82007B9A07 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B649B9422DA3FC80007B9A07 /* VideoPlayer-Test */;
+			target = B649B9422DA3FC80007B9A07 /* VideoPlayerHomework */;
 			targetProxy = B649B9542DA3FC82007B9A07 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -326,7 +326,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayer-Test/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayerHomework/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -354,7 +354,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayer-Test/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayerHomework/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -389,7 +389,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VideoPlayer-Test.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VideoPlayer-Test";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VideoPlayerHomework.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VideoPlayerHomework";
 			};
 			name = Debug;
 		};
@@ -407,14 +407,14 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VideoPlayer-Test.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VideoPlayer-Test";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VideoPlayerHomework.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/VideoPlayerHomework";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B649B93E2DA3FC80007B9A07 /* Build configuration list for PBXProject "VideoPlayer-Test" */ = {
+		B649B93E2DA3FC80007B9A07 /* Build configuration list for PBXProject "VideoPlayerHomework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B649B9652DA3FC82007B9A07 /* Debug */,
@@ -423,7 +423,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B649B9672DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayer-Test" */ = {
+		B649B9672DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayerHomework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B649B9682DA3FC82007B9A07 /* Debug */,
@@ -432,7 +432,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B649B96A2DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayer-TestTests" */ = {
+		B649B96A2DA3FC82007B9A07 /* Build configuration list for PBXNativeTarget "VideoPlayerHomeworkTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B649B96B2DA3FC82007B9A07 /* Debug */,

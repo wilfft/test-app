@@ -1,0 +1,15 @@
+"download_progress" = "Downloading... %d%%";
+"download_completed" = "Download Completed";
+"download_saved_as" = "Saved as %@";
+"download_error" = "Download failed: %@";
+"download_video" = "Download Video";
+"decoding_failed" = "Failed to decode data: %@";
+"invalid_status_code" = "Invalid status code: %d";
+"request_failed" = "Request failed: %@";
+"other_error" = "Unexpected error: %@";
+"invalid_url" = "Invalid URL";
+"invalid_response" = "Invalid server response";
+"image_decoding_failed" = "Failed to decode image";
+"generic_error" = "Error: %@";
+"player_error_unknown" = "Unknown player error";
+"invalid_local_path" = "The specified local file path is invalid or cannot be accessed.";
