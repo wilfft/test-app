@@ -21,9 +21,22 @@
 		B649B9532DA3FC82007B9A07 /* VideoPlayerHomeworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoPlayerHomeworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B6B728752DA404D4009332F3 /* Exceptions for "VideoPlayerHomework" folder in "VideoPlayerHomework" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B649B9422DA3FC80007B9A07 /* VideoPlayerHomework */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B649B9452DA3FC80007B9A07 /* VideoPlayerHomework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B6B728752DA404D4009332F3 /* Exceptions for "VideoPlayerHomework" folder in "VideoPlayerHomework" target */,
+			);
 			path = VideoPlayerHomework;
 			sourceTree = "<group>";
 		};
@@ -329,6 +342,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayerHomework/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VideoPlayerHomework/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -357,6 +371,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"VideoPlayerHomework/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VideoPlayerHomework/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
