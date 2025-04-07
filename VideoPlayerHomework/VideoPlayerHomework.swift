@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct VideoPlayer_TestApp: App {
+struct VideoPlayerHomework: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
